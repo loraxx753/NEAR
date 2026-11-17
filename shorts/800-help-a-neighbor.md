@@ -1,28 +1,38 @@
 # Help a Neighbor Back — 800 tip-line short (DRAFT)
 
-Status: draft until kept. First-wave short with **political-ad cold open** → prayer-line close. Style: early-90s issue/attack TV ads + 700 Club prayer-line close + local-news riot packages + 800 stack (`shelf.md`).
+Status: draft until kept. First-wave short. **Locked mix:** 700 Club commercial × political attack/issue ad × 90s 1-800 infomercial. Refs in `shelf.md`.
 
-**Form:** political issue ad into tip-line CTA  
+**Form:** three-register spot — issue-ad open → 700 Club host warmth → infomercial call-now close  
 **Length target:** ~40–50 seconds  
 **Number (locked):** `1-800-555-NEAR` (`1-800-555-6327`)
 
 No forgiveness in the copy. No protagonist. No coup lecture. Do not name Rodney King / real victims on the VO — steal the **news grammar**, not the biography.
 
+### Tone recipe (locked)
+
+| Layer | What it contributes | Where it lives |
+| --- | --- | --- |
+| **Political attack / issue ad** | Grave stakes, riot news reel, “our cities / our nation,” measured narrator | Cold open + pivot VO |
+| **700 Club commercial** | Forces of darkness, drifting soul, friend on the line, pastor, God’s love, soft desk warmth | Mid VO + host |
+| **90s 1-800 infomercial** | Call now, toll free, number spoken + supers, “standing by,” WordArt, repeat the vanity line | Host CTA + end card |
+
+Not pure attack-ad staccato. Not pure soft PSA. The sell is the phone number; the horror is the ask.
+
 ---
 
 ## Script
 
-**MUSIC A (political-ad bed):** low strings / soft tympani / grave issue-ad pad. Measured. Not staccato hits, not horror, not siren montage.
+**MUSIC A (issue-ad bed):** low strings / soft tympani / grave pad. Measured. Not staccato hits, not horror, not siren montage.
 
 **COLD OPEN — NEWS RIOT STACK (8–10s)**  
-CRT local-news unrest (Rodney King–era LA package grammar — helicopter night, smoke, crowds, chyron bars). Holds and dissolves more than whip-cuts; let the VO breathe over the pictures.
+CRT local-news unrest (Rodney King–era LA package grammar — helicopter night, smoke, crowds, chyron bars). Holds and dissolves; let the VO breathe.
 
-**VO (political-ad narrator — calm, grave, continuous):**  
+**VO (issue-ad narrator — calm, grave; 700 Club “darkness” diction):**  
 You've seen it on the news.  
 Across our cities, the streets have burned, and the forces of darkness have stepped into the open.
 
 **DISSOLVE — quieter suburb / empty porch (2–3s)**  
-Music softens; same narrator, closer.
+Music softens; same narrator, closer — spiritual-warfare lean without leaving the issue-ad cadence.
 
 **VO:**  
 But darkness is not only the rioters in the streets.  
@@ -30,49 +40,52 @@ It is also the unbelieving neighbor.
 The coworker who grew quiet.  
 A child of God… drifting from the fellowship that keeps a nation whole.
 
-**B-ROLL:** quiet house, empty pews, coworker desk — slower political-ad pacing under the lines.
+**B-ROLL:** quiet house, empty pews, coworker desk — political-ad pacing under 700 Club copy.
 
-**GFX:** WordArt / endtag (fade, not slam):
+**GFX (infomercial WordArt / endtag — fade in):**
 
 > HELP A NEIGHBOR BACK
 
-**VO (pivot — warmth enters, still measured):**  
+**VO (pivot — 700 Club warmth entering):**  
 They are out there.  
 And love does not leave them outside.
 
-**MUSIC B:** soft Christian-radio / prayer-line bed under the host. Political bed resolves into warmth.
+**MUSIC B:** soft Christian-radio / prayer-line bed. A light infomercial “call now” lift under the number beats.
 
-**CUT TO:** local-affiliate desk. Soft studio wash. Host smile — the “solution” face after the issue reel.
+**CUT TO:** 700 Club–grammar desk (soft wash, sincere smile) — the “solution” face after the issue reel.
 
-**HOST (prayer-CTA warmth):**  
+**HOST (700 Club prayer-CTA × infomercial sell):**  
 If someone you know has stepped away from fellowship…  
 or if *you* need mercy today…  
-there's a friend waiting on the other end of the line.
+there's a friend standing by on the other end of the line.
 
-**SUPER (large, period CRT):**  
+**SUPER (large, period CRT — infomercial endtag):**  
 `1-800-555-NEAR`  
-TOLL FREE
+TOLL FREE · CALL NOW
 
 **HOST:**  
 Call now. Toll free.  
+One eight hundred, five five five… N-E-A-R.  
 Tell us who needs to come home.  
 We'll get the name to your pastor.  
 Together, we bring them back into God's love.
 
-**SUPER (pulse / repeat):**  
+**SUPER (pulse / repeat — classic 800 stack):**  
 `1-800-555-NEAR`  
-A FRIEND IS WAITING
+A FRIEND IS STANDING BY
 
-**VO (button — soft, certain, same narrator as the open):**  
+**VO (button — issue-ad certainty + infomercial urgency, same narrator):**  
 Don't wait for Sunday.  
-And don't wait for the streets.  
+Don't wait for the streets.  
+Call 1-800-555-NEAR.  
 Love acts today.
 
-**END CARD (2s):**  
+**END CARD (2–3s — infomercial hold):**  
 pine-tree / Appeal to Heaven flag treatment (or N.E.A.R. seal — open)  
 `1-800-555-NEAR`  
 HELP A NEIGHBOR BACK  
-*N.E.A.R. Fellowship Services*
+*N.E.A.R. Fellowship Services*  
+Operators—friends—standing by.
 
 **MUSIC:** resolve. Optional hard cut back to diner CRT still showing muted riot news — then black.
 
@@ -80,12 +93,13 @@ HELP A NEIGHBOR BACK
 
 ## Production notes
 
-- **Tone:** political issue-ad open (measured, grave) → prayer-line sweetness close. Not staccato attack cuts. The horror is equating riot footage with the quiet neighbor, then the snitch ask.
+- **Tone:** 700 Club × political issue ad × 90s 1-800 infomercial. Measured open, warm host, hard sell on the number. The horror is equating riot footage with the quiet neighbor, then the snitch ask sold like a hotline.
 - **Banned words:** forgive / forgiveness / sorry / apology.
-- **Allowed:** mercy, love, fellowship, home, neighbor, pastor, God's love, stepped away, drifting, streets, rioters, darkness.
-- **Riot footage:** period local-news *grammar* (LA ’92 unrest packages). Prefer licensed/archival-style stock or diegetic TV playback — do **not** deepfake named real people. Reference package: https://www.youtube.com/watch?v=w98Fw6sbEFg
-- **Number on screen** at least twice; speak it once clearly if VO length allows (or supers only).
+- **Allowed:** mercy, love, fellowship, home, neighbor, pastor, God's love, stepped away, drifting, streets, rioters, darkness, call now, standing by, toll free.
+- **Riot footage:** period local-news *grammar* (LA ’92 unrest packages). Prefer licensed/archival-style stock or diegetic TV playback — do **not** deepfake named real people. Reference: https://www.youtube.com/watch?v=w98Fw6sbEFg
+- **Number:** on screen at least twice **and** spoken (infomercial rule). Vanity: `1-800-555-NEAR`.
 - **Do not explain** the regime, Plan 1985, or the coup.
+- Style board: scary 700 Club promo, 700 Club prayer close, local-cable 800 block, LA ’92 news packages — all on `shelf.md`.
 
 ## Open on this draft
 
@@ -93,7 +107,7 @@ HELP A NEIGHBOR BACK
 - Cold-open diner yes/no.
 - Exact end-card seal / flag.
 - Runtime trim to 30s vs 45s.
-- Whether host also speaks the number (`1-800-555-NEAR`) or supers only.
+- How hard the infomercial “standing by / call now” push gets before it tips into parody.
 
 ---
 
