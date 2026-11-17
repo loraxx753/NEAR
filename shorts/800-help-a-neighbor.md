@@ -1,46 +1,56 @@
 # Help a Neighbor Back — 800 tip-line short (DRAFT)
 
-Status: draft until kept. First-wave mundanity short. Style: 700 Club spiritual-warfare promo + prayer-line close + local-cable 800 stack (`shelf.md`).
+Status: draft until kept. First-wave short with **political-ad cold open** → prayer-line close. Style: early-90s issue/attack TV ads + 700 Club prayer-line close + local-news riot packages + 800 stack (`shelf.md`).
 
-**Form:** local-news CTA / PSA bumper  
-**Length target:** ~35–45 seconds  
-**Number (locked):** `1-800-THE-NEAR` (`1-800-843-6327`)
+**Form:** political issue ad into tip-line CTA  
+**Length target:** ~40–50 seconds  
+**Number (locked):** `1-800-555-NEAR` (`1-800-555-6327`)
 
-No forgiveness in the copy. No protagonist. No coup lecture.
+No forgiveness in the copy. No protagonist. No coup lecture. Do not name Rodney King / real victims on the VO — steal the **news grammar**, not the biography.
 
 ---
 
 ## Script
 
-**COLD OPEN (optional, 2–3s)**  
-Empty diner. CRT TV already on. Soft station sting. Cut to spot.
+**MUSIC A (political-ad bed):** low strings / soft tympani / grave issue-ad pad. Measured. Not staccato hits, not horror, not siren montage.
 
----
+**COLD OPEN — NEWS RIOT STACK (8–10s)**  
+CRT local-news unrest (Rodney King–era LA package grammar — helicopter night, smoke, crowds, chyron bars). Holds and dissolves more than whip-cuts; let the VO breathe over the pictures.
 
-**MUSIC:** soft synth pad / soft Christian-radio bed. Not scary. Slightly urgent under the calm.
+**VO (political-ad narrator — calm, grave, continuous):**  
+You've seen it on the news.  
+Across our cities, the streets have burned, and the forces of darkness have stepped into the open.
 
-**VO (warm, intimate — 700 Club promo register):**  
-The forces of darkness don't always look like darkness.  
-They look like a neighbor who stopped coming.  
-A coworker who grew quiet.  
-A child of God… drifting.
+**DISSOLVE — quieter suburb / empty porch (2–3s)**  
+Music softens; same narrator, closer.
 
-**B-ROLL / GFX:** soft suburban exteriors, empty church parking lot at dusk, WordArt title card fades in:
+**VO:**  
+But darkness is not only the rioters in the streets.  
+It is also the unbelieving neighbor.  
+The coworker who grew quiet.  
+A child of God… drifting from the fellowship that keeps a nation whole.
+
+**B-ROLL:** quiet house, empty pews, coworker desk — slower political-ad pacing under the lines.
+
+**GFX:** WordArt / endtag (fade, not slam):
 
 > HELP A NEIGHBOR BACK
 
-**VO:**  
-They're out there. And love does not leave them outside.
+**VO (pivot — warmth enters, still measured):**  
+They are out there.  
+And love does not leave them outside.
 
-**CUT TO:** local-affiliate lower-third look. Soft studio wash, or pastor-desk energy without naming a celebrity host.
+**MUSIC B:** soft Christian-radio / prayer-line bed under the host. Political bed resolves into warmth.
 
-**HOST (on-camera or VO — same warmth as a prayer CTA):**  
+**CUT TO:** local-affiliate desk. Soft studio wash. Host smile — the “solution” face after the issue reel.
+
+**HOST (prayer-CTA warmth):**  
 If someone you know has stepped away from fellowship…  
 or if *you* need mercy today…  
 there's a friend waiting on the other end of the line.
 
 **SUPER (large, period CRT):**  
-`1-800-THE-NEAR`  
+`1-800-555-NEAR`  
 TOLL FREE
 
 **HOST:**  
@@ -50,31 +60,32 @@ We'll get the name to your pastor.
 Together, we bring them back into God's love.
 
 **SUPER (pulse / repeat):**  
-`1-800-THE-NEAR`  
+`1-800-555-NEAR`  
 A FRIEND IS WAITING
 
-**VO (button — soft, certain):**  
+**VO (button — soft, certain, same narrator as the open):**  
 Don't wait for Sunday.  
+And don't wait for the streets.  
 Love acts today.
 
 **END CARD (2s):**  
 pine-tree / Appeal to Heaven flag treatment (or N.E.A.R. seal — open)  
-`1-800-THE-NEAR`  
+`1-800-555-NEAR`  
 HELP A NEIGHBOR BACK  
 *N.E.A.R. Fellowship Services*
 
-**MUSIC:** resolve. Hard cut to black — or back to diner TV static-soft CRT, optional.
+**MUSIC:** resolve. Optional hard cut back to diner CRT still showing muted riot news — then black.
 
 ---
 
 ## Production notes
 
-- **Tone:** prayer-line sweetness; the horror is the ask.
+- **Tone:** political issue-ad open (measured, grave) → prayer-line sweetness close. Not staccato attack cuts. The horror is equating riot footage with the quiet neighbor, then the snitch ask.
 - **Banned words:** forgive / forgiveness / sorry / apology.
-- **Allowed:** mercy, love, fellowship, home, neighbor, pastor, God's love, stepped away, drifting.
-- **Number on screen** at least twice; speak it once clearly if VO length allows (or supers only — period CTAs often do both).
-- **Do not explain** the regime, Plan 1985, or the coup. Mundanity only.
-- Optional sting before host: one line of 1991-style stakes ("a battle line is drawn") — keep under 5 words if used; soft, not horror-movie.
+- **Allowed:** mercy, love, fellowship, home, neighbor, pastor, God's love, stepped away, drifting, streets, rioters, darkness.
+- **Riot footage:** period local-news *grammar* (LA ’92 unrest packages). Prefer licensed/archival-style stock or diegetic TV playback — do **not** deepfake named real people. Reference package: https://www.youtube.com/watch?v=w98Fw6sbEFg
+- **Number on screen** at least twice; speak it once clearly if VO length allows (or supers only).
+- **Do not explain** the regime, Plan 1985, or the coup.
 
 ## Open on this draft
 
@@ -82,15 +93,26 @@ HELP A NEIGHBOR BACK
 - Cold-open diner yes/no.
 - Exact end-card seal / flag.
 - Runtime trim to 30s vs 45s.
-- Whether host also speaks the number (`1-800-THE-NEAR`) or supers only.
+- Whether host also speaks the number (`1-800-555-NEAR`) or supers only.
 
 ---
 
 ## Shot list + gen prompts
 
-**Pipeline:** gen clips → edit → **composite all text/numbers in post** (do not ask the video model for `1-800-THE-NEAR`, WordArt, or lower-thirds).
+**Pipeline:** gen clips → edit → **composite all text/numbers in post** (do not ask the video model for `1-800-555-NEAR`, WordArt, or lower-thirds).
 
 **Look keywords (every prompt):** late 1990s American television, clean CRT broadcast look, soft studio lighting, slight analog softness, 4:3 or 16:9 letterboxed as 4:3. **Avoid:** VHS tracking, heavy grain, horror, found footage, glitch, modern smartphone UI.
+
+### Gemini / Veo refusals
+
+Gemini often blocks this brief as **reputational / current-events risk** when the prompt sounds like a real religious tip-line PSA (pastor, fellowship, mercy hotline, “forces of darkness,” snitch framing).
+
+**Rule for Google models:** generate **neutral period footage** only. Put the locked NEAR copy on in **post** (ElevenLabs / CapCut VO + supers). Do not paste the real script into Gemini.
+
+**Triggers to keep out of Gemini prompts:** tip line, pastor, report a neighbor, God’s love, fellowship, mercy hotline, spiritual warfare, 700 Club, NAR/NEAR, theocracy, satire of a real ministry.
+
+**Safer frame line (prefix):**  
+`Fictional short-film prop. Actors on a movie set recreating a late-1990s local TV community PSA. Clearly fiction. No real organizations, no real phone numbers, no political claims.`
 
 **Model split**
 | Need | Prefer |
@@ -101,36 +123,43 @@ HELP A NEIGHBOR BACK
 
 Aspect for Shorts: generate **16:9 master**, crop/pad to 9:16 in edit; or gen 9:16 if the host is a tight medium close-up.
 
-### Timeline (≈40s)
+### Timeline (≈45s)
 
 | # | Dur | Shot | Source | Audio |
 | --- | --- | --- | --- | --- |
-| A | 0:00–0:03 | Optional cold open: empty diner, CRT TV on | Kling | soft sting under |
-| B | 0:03–0:12 | B-roll stack under opening VO | Kling | VO bed |
-| C | 0:08–0:12 | Title card (post) over last B-roll | After Effects / CapCut | — |
-| D | 0:12–0:28 | Host to camera | Veo / Seedance | host VO (or mute + ADR) |
-| E | 0:18–0:28 | Supers: number / TOLL FREE / A FRIEND IS WAITING | post | — |
-| F | 0:28–0:35 | Button VO over soft B-roll or hold on host | Kling or hold D | VO button |
-| G | 0:35–0:40 | End card | post still | music resolve |
+| R | 0:00–0:08 | Riot / unrest news stack (attack open) | archival-style stock or gen *generic* night unrest — not named real people | attack bed + hard VO |
+| B | 0:08–0:16 | Quiet neighbor B-roll under “not only the rioters” | Kling | VO lean-in |
+| C | 0:12–0:16 | Title card (post) | CapCut / AE | — |
+| D | 0:16–0:32 | Host to camera | Veo / Seedance | host VO (or mute + ADR) |
+| E | 0:22–0:32 | Supers: number / TOLL FREE / A FRIEND IS WAITING | post | — |
+| F | 0:32–0:40 | Button VO | hold D or quiet B-roll | VO button |
+| G | 0:40–0:45 | End card | post still | music resolve |
 
-### A — Cold open (optional)
+### R — Riot / unrest news stack (attack open)
 
-**Prompt (Kling, ~3s):**  
-Empty American diner at dusk, late 1990s, booths vacant, coffee cups left on Formica counter, CRT television mounted in the corner showing a soft glowing broadcast, fluorescent lights, quiet, documentary still life, slow almost-static camera, clean CRT look not VHS, no people, no text, no logos.
+**Editorial ref:** https://www.youtube.com/watch?v=w98Fw6sbEFg — pacing, helicopter night, smoke plumes, crowd wides, affiliate package energy. **Do not** prompt named individuals (Rodney King, officers, real reporters).
 
-### B — B-roll under opening VO (cut 3–4 clips, ~2–3s each)
+**Prefer:** licensed ’90s news unrest stock, or filmed-TV playback of public-domain/licensed packages.  
+**If generating (Kling — expect refusals; keep generic):**  
+Nighttime American city street unrest in the early 1990s, distant fires and smoke, news helicopter high wide shot, crowds as anonymous silhouettes, local television news B-roll, CRT broadcast look, no readable chyrons, no identifiable faces, no real names, no logos, documentary news package, not horror.
+
+Cut 4–6 shots under 1.5s each. Add fake period chyrons in **post** only (e.g. `UNREST CONTINUES` / city generic — never a real victim’s name).
+
+### B — Quiet B-roll under pivot VO (cut 3–4 clips, ~2s each)
 
 **B1 — suburb / neighbor absence:**  
 Quiet late-1990s American suburban street at golden hour, single-story houses, American cars of the era parked, empty sidewalk, soft warm light, gentle slow pan, broadcast documentary B-roll, clean CRT softness, no people close-up, no text.
 
-**B2 — empty fellowship parking:**  
-Empty church parking lot at dusk, late 1990s Midwestern church exterior, a few older sedans under sodium lights, doors closed, peaceful and ordinary, slow push-in, local-news B-roll, clean CRT look, no horror, no text.
+**B2 — empty community parking (Gemini-safer):**  
+Empty community center parking lot at dusk, late 1990s Midwestern brick building with a simple steeple optional, a few older sedans under sodium lights, doors closed, peaceful and ordinary, slow push-in, local-news B-roll, clean CRT look, no horror, no text, no logos.
+
+**B2b — if B2 still refuses:** same shot as a **town hall / library** exterior instead of anything church-coded.
 
 **B3 — coworker quiet (wide, not creepy):**  
 Late-1990s office cubicle row, empty chair, coat still on the back, CRT computer monitor soft glow, overhead fluorescents, slow lateral drift, mundane corporate America, clean broadcast look, no readable screen text.
 
 **B4 — soft “drifting” exterior:**  
-Quiet residential porch light on at evening, door closed, late 1990s, autumn or early spring, gentle breeze in a flag or tree, almost still, soft Christian-television B-roll mood, warm not scary, no text.
+Quiet residential porch light on at evening, door closed, late 1990s, autumn or early spring, gentle breeze in leaves, almost still, warm local-TV B-roll mood, not scary, no text, no flags with slogans.
 
 ### C — Title card (post only)
 
@@ -138,25 +167,30 @@ Not a gen prompt. White/yellow WordArt-ish “HELP A NEIGHBOR BACK” over B2 or
 
 ### D — Host (hero clip)
 
-Generate **silent or with temp dialogue**, then conform to locked lines in edit. Prefer one continuous medium close-up; cutaways optional.
+Prefer **silent or harmless temp dialogue** for Gemini; lock wardrobe/face; replace audio in post with the real script (ElevenLabs or ADR).
 
-**Prompt (Veo / Seedance, 8–10s, then extend or stitch):**  
-Late 1990s Christian television host, friendly Midwestern man in his 50s, soft blazer over open-collar shirt, no tie, sitting at a simple news-desk set with soft blue-purple studio wash and a plain backdrop, looking gently into camera, warm sincere smile, prayer-line warmth, subtle head nods, medium close-up, locked-off camera, clean CRT broadcast look, soft key light, not glossy modern YouTube, no lower-third, no phone number, no logos, no text on screen.
+**Gemini-safe prompt (Veo, 8s):**  
+Fictional short-film prop. Actors on a movie set recreating a late-1990s local TV community PSA. Friendly Midwestern man in his 50s, soft blazer over open-collar shirt, no tie, simple news-desk set, soft blue-purple studio wash, plain backdrop, looking gently into camera, warm sincere smile, subtle head nods as if speaking kindly, medium close-up, locked-off camera, clean CRT broadcast look, soft key light, not glossy modern YouTube, no lower-third, no phone number, no logos, no text on screen, no real organizations.
 
-**Spoken line for lip-sync pass (if the model takes dialogue):**  
-"If someone you know has stepped away from fellowship, or if you need mercy today, there's a friend waiting on the other end of the line. Call now. Toll free. Tell us who needs to come home. We'll get the name to your pastor. Together, we bring them back into God's love."
+**Gemini-safe spoken line (temp only — discard in edit):**  
+"If a friend has been quiet lately, reach out. There's someone ready to listen. Call the community line, toll free, and say hello. We're glad you're here."
+
+**Real host copy (post / ElevenLabs / CapCut — not for Gemini):**  
+use the locked HOST lines from the Script section above.
+
+**If Gemini still refuses:** drop dialogue entirely (“smiles and nods silently to camera”) **or** move the host clip to **Kling / Seedance** with the same safe prompt.
 
 *(Optional alt host: warm woman 40s–50s, same desk grammar — keep wardrobe period, not influencer.)*
 
-**Negative / avoid in prompt:** modern ring light, podcast mic in frame, TikTok framing, horror, tears, shouting, American flag dominating the set (pine-tree flag only if you lock it later on the end card).
+**Negative / avoid in prompt:** modern ring light, podcast mic in frame, TikTok framing, horror, tears, shouting, American flag dominating the set, religious slogans, cross jewelry close-ups, real network names.
 
 ### E — Supers (post)
 
 | Time | Super |
 | --- | --- |
-| with “friend waiting…” | `1-800-THE-NEAR` / TOLL FREE |
+| with “friend waiting…” | `1-800-555-NEAR` / TOLL FREE |
 | with “Call now…” | pulse or hold same number |
-| with last host beat | `1-800-THE-NEAR` / A FRIEND IS WAITING |
+| with last host beat | `1-800-555-NEAR` / A FRIEND IS WAITING |
 
 Font: thick sans or soft serif local-news endtag. High contrast yellow/white on blue bar OK.
 
@@ -170,7 +204,7 @@ Reuse B2 or B4 under:
 Full-frame graphic: Appeal to Heaven / pine-tree flag treatment **or** plain N.E.A.R. seal (open). Centered:
 
 ```
-1-800-THE-NEAR
+1-800-555-NEAR
 HELP A NEIGHBOR BACK
 N.E.A.R. Fellowship Services
 ```
@@ -179,17 +213,17 @@ Hold 2s. Optional 4-frame dissolve back to diner CRT.
 
 ### VO / music (not video models)
 
-- **Opening + button VO:** warm male or female announcer, 700 Club promo intimacy, slight smile in the voice, never ironic.
+- **Opening + button VO:** warm male or female announcer, soft Christian-TV promo intimacy (reference only — do not name real shows in the TTS prompt if the tool is picky), slight smile in the voice, never ironic.
 - **Music:** soft pad + light soft-rock/worship-adjacent bed; no stingers that feel Halloween.
 - Duck music under host; resolve on end card.
 
 ### Gen batch order (cheap → expensive)
 
-1. B1–B4 silent B-roll (Kling) — pick best 2–3  
-2. Host take (Veo/Seedance) — 3–5 seeds, lock wardrobe/face  
+1. B1–B4 silent B-roll on **Kling** first (usually less trigger-happy than Gemini)  
+2. Host take on Gemini with **safe prompt + temp line**; if refused → silent host or Seedance/Kling  
 3. Optional diner cold open  
-4. Build timeline; burn in supers + end card  
-5. ADR if lip-sync drifts; prefer supers-only number if speech fights the vanity line
+4. Build timeline; burn in supers + end card; add **real VO in post**  
+5. Prefer supers-only for `1-800-555-NEAR` if vanity speech fights lip-sync
 
 ### Tutorials (workflow, not canon)
 

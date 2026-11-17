@@ -37,6 +37,7 @@ Weaponized nostalgia. Warm familiar imagery, turned. Generation labels never go 
 | Through the Decades with The 700 Club | Period broadcast institution look across the window; host desk, bumpers, prayer CTAs | https://cbn.com/video/700-club/through-decades-700-club |
 | 700 Club episode / prayer-line close | Warm "friend on the line" toll-free CTA grammar (pray-with-you register → snitch cousin) | https://www.youtube.com/watch?v=tBOYUB8nENU |
 | Local cable ad block (psychic + 800 call-now spots) | Bumper stack grammar: free sample, operators waiting, number on screen, soft urgency | https://www.youtube.com/watch?v=Q1XZ_raQccU |
+| Rodney King / LA ’92 unrest news packages | Attack-ad cold open grammar for tip-line spots: helicopter night, smoke, crowds, local-affiliate chyrons — steal the package, not the names | https://www.youtube.com/watch?v=w98Fw6sbEFg |
 
 ## Story and regime
 
@@ -63,6 +64,7 @@ Weaponized nostalgia. Warm familiar imagery, turned. Generation labels never go 
 | January 6, 2021 | Grammar for the House storm: not an election loss — reaction to the assassination + Dole's calm | |
 | George H. W. Bush, Dan Quayle | Brief legal presidency/VP; resign so Speaker Reagan returns | |
 | New Apostolic Reformation (NAR) | Primary pastiche / parody target; N.E.A.R. = New Evangelical Apostolic Reformation (NAR + Evangelical) | https://en.wikipedia.org/wiki/New_Apostolic_Reformation |
+| True name (spiritual mapping) | NAR grammar: prophets name territorial spirits over places/spheres to defeat them in spiritual warfare | https://en.wikipedia.org/wiki/True_name |
 | Appeal to Heaven / pine-tree flag | Candidate for the N.E.A.R. flag (not the US flag) | |
 | Pledge of Allegiance | Template for the corrupted pledge | |
 | Lord's Prayer | Template for the closer prayed to the founders | |
